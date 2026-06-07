@@ -10,15 +10,19 @@ A Retrieval-Augmented Generation (RAG) chatbot built using **LangChain**, **Goog
 * Google Gemini integration
 * Fast document retrieval
 * Streamlit web interface
+  
+## 🛠️ Technologies Used
 
-## 🛠️ Tech Stack
-
-* Python
-* Streamlit
-* LangChain
-* Google Gemini
-* FAISS
-* PyPDFLoader
+| Technology    | Purpose                |
+| ------------- | ---------------------- |
+| Python        | Backend Logic          |
+| Streamlit     | Web Application        |
+| LangChain     | RAG Framework          |
+| Google Gemini | AI Response Generation |
+| FAISS         | Vector Database        |
+| PDF Loader    | Document Processing    |
+| Embeddings    | Semantic Search        |
+| GitHub        | Version Control        |
 
 ## 📸 Screenshot
 
