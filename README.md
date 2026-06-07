@@ -32,7 +32,7 @@ cd Rag-chatbot-with-memory
 
 pip install -r requirements.txt
 
-streamlit run main.py
+streamlit run chatbot.py
 ```
 
 ## 🔑 Environment Variables
