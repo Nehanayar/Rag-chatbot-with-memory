@@ -2,6 +2,15 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot built using **LangChain**, **Google Gemini**, **FAISS**, and **Streamlit**. The chatbot answers questions from PDF documents while maintaining conversation memory.
 
+## 🌐 Live Demo
+
+🚀 Try the application here:
+
+https://your-rag-chatbot.streamlit.app
+
+> Note: This project uses the Google Gemini API for generating responses from PDF documents. The demo may be temporarily unavailable if the free Gemini API quota has been exhausted.
+
+
 ## 🚀 Features
 
 * PDF document processing
